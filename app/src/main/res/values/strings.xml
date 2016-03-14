@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">YoTools</string>
+    <string name="action_settings">设置</string>
+    <string name="section1">推荐</string>
+    <string name="section2">发现</string>
+    <string name="action_me">我</string>
+
+    <string name="section_format">Hello World from section: %1$d</string>
+</resources>
